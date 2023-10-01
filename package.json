@@ -1,0 +1,16 @@
+{
+  "name": "qa_assignment",
+  "version": "1.0.0",
+  "description": "Assignment resolution for Tech9 technical interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "Brian Nestico",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.0",
+    "cypress-slow-down": "^1.2.1"
+  }
+}

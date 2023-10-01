@@ -1,0 +1,17 @@
+{
+  "first_name": "tester",
+  "last_name": "qae",
+  "email": "apptesterlink@gmail.com",
+  "password": "iA#q8e$qc2FzBD6",
+  "address": "900 Ocean Dr",
+  "city": "Miami",
+  "state": "Florida",
+  "country": "US",
+  "zipcode": "33139",
+  "payment_method": "Credit Card",
+  "item_name": "Organic Dried Wolfberries",
+  "card_number": "4242424242424242",
+  "exp_month": "06",
+  "exp_year": "2025",
+  "card_code": "888"
+}
